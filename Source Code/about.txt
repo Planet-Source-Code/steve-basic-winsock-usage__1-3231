@@ -1,0 +1,42 @@
+100
+
+
+
+
+
+
+
+
+
+
+
+
+PhrÿstByte Version 3.4.1
+======================================
+Welcome to the new and most useful 
+Trojen Type program on the net.  It
+allows you to control many aspects of
+the users computer, including some
+of the most important ones, and some
+of the less important ones.  It will
+even let you move their mouse around.
+
+I am happy to let you use this program
+however, I bring it to your attention
+that I made this program for learning 
+purposes only, and will not except any
+responsability for any trouble you may
+get in while using this.
+
+It is possible to get in trouble with
+this program because it gives you the
+ability to control the operations of
+another users computer.  Some people
+concider this hacking, although I am
+not one of them, however I don't make
+the laws either, so don't use this on
+anyone that will turn you in, instead 
+simply use it like I did, to play a 
+prank on a friend or something.  So
+have fun, but don't get into any
+trouble!!!!!!
